@@ -1,2 +1,0 @@
-# AboutMe
-Short README Intro
